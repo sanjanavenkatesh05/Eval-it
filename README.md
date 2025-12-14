@@ -2,6 +2,9 @@
 
 Eval-it (GitGrade) is a powerful tool for analyzing GitHub repositories using Google's Gemini API. It provides instant deep-dive analysis, compliance checks, and actionable roadmaps for any public repository.
 
+## Try it yourself 
+Link: https://eval-it.vercel.app/
+
 ## Features
 
 ### 📊 Comprehensive Metrics
@@ -21,8 +24,6 @@ Explore the codebase with a file tree or an interactive graph visualization to u
 **Graph View:**
 ![Graph View](images/Screenshot%202025-12-14%20145857.png)
 
-## Try it yourself 
-Link: https://eval-it.vercel.app/
 
 ## Run Locally
 
